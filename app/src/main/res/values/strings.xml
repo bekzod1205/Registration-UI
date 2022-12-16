@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Registration UI</string>
+    <string name="text_1">By creating an account or signing you agree to our \n<u>Terms and Conditions.</u></string>
 </resources>
